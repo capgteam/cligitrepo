@@ -1,3 +1,6 @@
+Hello! How Are you?
+I am fine!
+
 hello! welcome to git CLI console.
 Hey! its raining heavily here.
 Hello! Good Afternoon!
